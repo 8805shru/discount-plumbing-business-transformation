@@ -1,37 +1,59 @@
-Discount Plumbing Business Transformation - AI Story Video
-Overview
+# Discount Plumbing Business Transformation - AI Story Video
 
-This AI-generated video presents the story of Bob Campana's acquisition and transformation of a struggling plumbing business.
+## Overview
 
-The project highlights how operational improvements, flat-rate pricing, automation systems, and cultural transformation turned a failing company into a profitable business.
+This AI-generated video tells the story of entrepreneur Bob Campana and his transformation of a struggling plumbing business into a highly profitable operation.
 
-Tools Used
-ChatGPT
-Google Flow
-VN Editor
+The story demonstrates how innovative pricing strategies, business automation, operational efficiency, and leadership can completely change the future of a company.
 
-Workflow
-Story Breakdown
-Scene Creation
-AI Image Generation
-AI Video Production
-Voiceover Script Creation
-Video Editing
-Final Rendering
+## Tools Used
 
-Skills Demonstrated
-Storytelling
-Generative AI
-Prompt Design
-Video Editing
-Creative Content Production
+- ChatGPT
+- Google Flow
+- VN Editor
+- Google Drive
 
-Deliverables
-AI Images
-AI Videos
-Workflow Documentation
-Final Edited Video
+## Workflow
 
-Outcome
+1. Story Analysis
+2. Scene Planning
+3. AI Image Generation
+4. AI Video Generation
+5. Voiceover Script Creation
+6. Subtitle Integration
+7. Video Editing
+8. Final Export
 
-Created an engaging AI-generated business success story showcasing entrepreneurship and operational innovation.
+## Story Highlights
+
+- Business Acquisition
+- Problem Identification
+- Flat-Rate Pricing Strategy
+- Automation Implementation
+- Team Restructuring
+- Business Growth
+- Successful Exit Strategy
+
+## Skills Demonstrated
+
+- Generative AI
+- Prompt Engineering
+- AI Storytelling
+- Video Production
+- Video Editing
+- Business Case Visualization
+
+## Deliverables
+
+- AI Generated Images
+- AI Generated Video Clips
+- Workflow Documentation
+- Final Edited Video
+
+## Final Video Link
+
+https://drive.google.com/drive/folders/1hCnnvhFv8zUcfKj7hkJdlliBBHFXAVSL
+
+## Outcome
+
+Successfully converted a real-world business transformation story into an engaging AI-generated cinematic video, showcasing entrepreneurship, innovation, and operational excellence.
